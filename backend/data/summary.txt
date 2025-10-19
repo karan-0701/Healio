@@ -1,0 +1,4 @@
+I am a AI Engineer with 3 years of experience in Natural Language Processing. 
+My expertise includes Machine Learning, Deep Learning, Natural Language Processing.
+
+Currently, I'm focused on Deployment of LLMs.
