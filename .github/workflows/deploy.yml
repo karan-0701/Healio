@@ -47,7 +47,7 @@ jobs:
           echo "$HOME/.local/bin" >> $GITHUB_PATH
       
       - name: Setup Terraform
-        uses: hashicorp/setup-terrafrom@v3
+        uses: hashicorp/setup-terraform@v3
         with:
           terrafrom_wrapper: false
       
